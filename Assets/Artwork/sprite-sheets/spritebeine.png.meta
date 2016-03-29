@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: b61d2ff16bcf24eeb960a5196778eee7
+timeCreated: 1458595912
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritebeine_0
+    21300002: spritebeine_1
+    21300004: spritebeine_2
+    21300006: spritebeine_3
+    21300008: spritebeine_4
+    21300010: spritebeine_5
+    21300012: spritebeine_6
+    21300014: spritebeine_7
+    21300016: spritebeine_8
+    21300018: spritebeine_9
+    21300020: spritebeine_10
+    21300022: spritebeine_11
+    21300024: spritebeine_12
+    21300026: spritebeine_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: spritebeine_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 226
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -12, y: -14}
+        - {x: 12, y: -14}
+        - {x: 12, y: 5}
+        - {x: 1, y: 14}
+    - name: spritebeine_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 190
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -13, y: -14}
+        - {x: 13, y: -14}
+        - {x: 13, y: 8}
+        - {x: 3, y: 14}
+    - name: spritebeine_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 190
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -14}
+        - {x: 14, y: -14}
+        - {x: 15, y: -12}
+        - {x: 15, y: 3}
+        - {x: 4, y: 14}
+        - {x: -8, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: -13}
+        - {x: -12, y: -14}
+        - {x: -4, y: -14}
+        - {x: -2, y: -12}
+        - {x: -2, y: -10}
+        - {x: 9, y: -13}
+    - name: spritebeine_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 190
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 14}
+        - {x: -13, y: 14}
+        - {x: -13, y: -12}
+        - {x: -11, y: -14}
+        - {x: -7, y: -13}
+        - {x: -4, y: -10}
+        - {x: 2, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 4}
+        - {x: 6, y: 11}
+    - name: spritebeine_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 190
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 15}
+        - {x: -13, y: -15}
+        - {x: -3, y: -15}
+        - {x: 13, y: -10}
+        - {x: 13, y: 10}
+        - {x: 5, y: 15}
+    - name: spritebeine_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 190
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 5}
+        - {x: -1, y: 14}
+        - {x: -7, y: 14}
+        - {x: -14, y: 12}
+        - {x: -14, y: -7}
+        - {x: -13, y: -11}
+        - {x: -8, y: -15}
+        - {x: -5, y: -14}
+        - {x: 3, y: -13}
+        - {x: 12, y: -11}
+        - {x: 15, y: -9}
+    - name: spritebeine_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 190
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -11, y: 15}
+        - {x: -14, y: 14}
+        - {x: -14, y: -5}
+        - {x: -12, y: -7}
+        - {x: -10, y: -7}
+        - {x: 1, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: -4}
+        - {x: 14, y: 2}
+    - name: spritebeine_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 190
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -10, y: 5}
+        - {x: -7, y: -14}
+        - {x: -3, y: -15}
+        - {x: 11, y: -15}
+        - {x: 11, y: 6}
+        - {x: 0, y: 15}
+    - name: spritebeine_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 190
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 14}
+        - {x: -11, y: 14}
+        - {x: -11, y: -15}
+        - {x: 6, y: -15}
+        - {x: 11, y: -6}
+        - {x: 11, y: 13}
+    - name: spritebeine_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -12, y: 0}
+        - {x: -11, y: -9}
+        - {x: -6, y: -15}
+        - {x: 3, y: -15}
+        - {x: 13, y: -10}
+        - {x: 13, y: 7}
+        - {x: 2, y: 14}
+    - name: spritebeine_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 13}
+        - {x: -15, y: 13}
+        - {x: -15, y: -14}
+        - {x: 2, y: -14}
+        - {x: 13, y: -13}
+        - {x: 15, y: -10}
+        - {x: 15, y: -3}
+        - {x: 14, y: 2}
+    - name: spritebeine_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -8, y: 14}
+        - {x: -13, y: 12}
+        - {x: -17, y: 5}
+        - {x: -17, y: -13}
+        - {x: -12, y: -15}
+        - {x: 15, y: -15}
+        - {x: 17, y: -10}
+        - {x: 17, y: -3}
+        - {x: 10, y: 5}
+    - name: spritebeine_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 1}
+        - {x: -14, y: -7}
+        - {x: -7, y: -15}
+        - {x: 14, y: -15}
+        - {x: 14, y: 0}
+        - {x: 11, y: 6}
+        - {x: -1, y: 14}
+        - {x: -6, y: 14}
+        - {x: -11, y: 12}
+    - name: spritebeine_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 15}
+        - {x: -10, y: 15}
+        - {x: -10, y: -9}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 10, y: -14}
+        - {x: 11, y: -4}
+        - {x: 11, y: 4}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

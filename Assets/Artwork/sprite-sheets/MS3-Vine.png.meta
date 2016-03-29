@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: c72245246129d45a498e2c2d7106c058
+timeCreated: 1458761444
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MS3-Vine_0
+    21300002: MS3-Vine_1
+    21300004: MS3-Vine_2
+    21300006: MS3-Vine_3
+    21300008: MS3-Vine_4
+    21300010: MS3-Vine_5
+    21300012: MS3-Vine_6
+    21300014: MS3-Vine_7
+    21300016: MS3-Vine_8
+    21300018: MS3-Vine_9
+    21300020: MS3-Vine_10
+    21300022: MS3-Vine_11
+    21300024: MS3-Vine_12
+    21300026: MS3-Vine_13
+    21300028: MS3-Vine_14
+    21300030: MS3-Vine_15
+    21300032: MS3-Vine_16
+    21300034: MS3-Vine_17
+    21300036: MS3-Vine_18
+    21300038: MS3-Vine_19
+    21300040: MS3-Vine_20
+    21300042: MS3-Vine_21
+    21300044: MS3-Vine_22
+    21300046: MS3-Vine_23
+    21300048: MS3-Vine_24
+    21300050: MS3-Vine_25
+    21300052: MS3-Vine_26
+    21300054: MS3-Vine_27
+    21300056: MS3-Vine_28
+    21300058: MS3-Vine_29
+    21300060: MS3-Vine_30
+    21300062: MS3-Vine_31
+    21300064: MS3-Vine_32
+    21300066: MS3-Vine_33
+    21300068: MS3-Vine_34
+    21300070: MS3-Vine_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: MS3-Vine_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 376
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 32}
+        - {x: -54, y: -11}
+        - {x: -38, y: -32}
+        - {x: 38, y: -32}
+        - {x: 54, y: -8}
+        - {x: 54, y: 32}
+    - name: MS3-Vine_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 368
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 32}
+        - {x: -51.5, y: -24}
+        - {x: -40.5, y: -32}
+        - {x: 51.5, y: -32}
+        - {x: 51.5, y: 32}
+    - name: MS3-Vine_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 364
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 32.5}
+        - {x: -52, y: 24.5}
+        - {x: -47, y: -1.5}
+        - {x: -44, y: -3.5}
+        - {x: -52, y: -13.5}
+        - {x: -52, y: -29.5}
+        - {x: -50, y: -32.5}
+        - {x: 39, y: -32.5}
+        - {x: 52, y: -19.5}
+        - {x: 52, y: 32.5}
+    - name: MS3-Vine_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 362
+        width: 101
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 32.5}
+        - {x: -50.5, y: -23.5}
+        - {x: -46.5, y: -32.5}
+        - {x: 38.5, y: -32.5}
+        - {x: 50.5, y: -12.5}
+        - {x: 50.5, y: 32.5}
+    - name: MS3-Vine_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 366
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 14.5}
+        - {x: 44.5, y: 12.5}
+        - {x: 46.5, y: 12.5}
+        - {x: 46.5, y: 29.5}
+        - {x: 44.5, y: 32.5}
+        - {x: -46.5, y: 32.5}
+        - {x: -46.5, y: -32.5}
+        - {x: 28.5, y: -32.5}
+        - {x: 46.5, y: -22.5}
+        - {x: 46.5, y: 9.5}
+        - {x: 43.5, y: 12.5}
+    - name: MS3-Vine_5
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 363
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 34.5}
+        - {x: -44.5, y: -6.5}
+        - {x: -21.5, y: -34.5}
+        - {x: 8.5, y: -34.5}
+        - {x: 34.5, y: -29.5}
+        - {x: 44.5, y: -16.5}
+        - {x: 44.5, y: 34.5}
+    - name: MS3-Vine_6
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 359
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 35}
+        - {x: -42, y: -12}
+        - {x: -31, y: -27}
+        - {x: -24, y: -35}
+        - {x: 17, y: -35}
+        - {x: 36, y: -26}
+        - {x: 42, y: -11}
+        - {x: 42, y: 31}
+        - {x: 37, y: 35}
+    - name: MS3-Vine_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 360
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 34.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 11.5, y: -11.5}
+        - {x: 11.5, y: -28.5}
+        - {x: -26.5, y: 32.5}
+        - {x: -33.5, y: 34.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: -1.5}
+        - {x: -40.5, y: -21.5}
+        - {x: 0.5, y: -34.5}
+        - {x: 29.5, y: -34.5}
+        - {x: 43.5, y: -25.5}
+        - {x: 43.5, y: 34.5}
+    - name: MS3-Vine_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 268
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 31}
+        - {x: 14, y: 20}
+        - {x: -23, y: 31}
+        - {x: -45, y: 31}
+        - {x: -45, y: 10}
+        - {x: -28, y: -13}
+        - {x: -4, y: -31}
+        - {x: 43, y: -31}
+        - {x: 45, y: -30}
+        - {x: 45, y: 31}
+    - name: MS3-Vine_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 265
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 32}
+        - {x: -48.5, y: 3}
+        - {x: -4.5, y: -32}
+        - {x: 48.5, y: -32}
+        - {x: 48.5, y: 32}
+    - name: MS3-Vine_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 261
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 31}
+        - {x: 5.5, y: 19}
+        - {x: -29.5, y: 31}
+        - {x: -48.5, y: 31}
+        - {x: -48.5, y: 8}
+        - {x: -29.5, y: -18}
+        - {x: -26.5, y: -10}
+        - {x: -26.5, y: -8}
+        - {x: -26.5, y: -10}
+        - {x: -6.5, y: -31}
+        - {x: 36.5, y: -31}
+        - {x: 48.5, y: -22}
+        - {x: 48.5, y: 27}
+        - {x: 45.5, y: 31}
+    - name: MS3-Vine_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 255
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 31.5}
+        - {x: 26, y: 28.5}
+        - {x: -18, y: 31.5}
+        - {x: -50, y: 31.5}
+        - {x: -50, y: 11.5}
+        - {x: -45, y: -18.5}
+        - {x: -13, y: -31.5}
+        - {x: 42, y: -31.5}
+        - {x: 47, y: -26.5}
+        - {x: 50, y: -9.5}
+        - {x: 50, y: 31.5}
+    - name: MS3-Vine_12
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 254
+        width: 106
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 30.5}
+        - {x: 30, y: 22.5}
+        - {x: -9, y: 30.5}
+        - {x: -53, y: 30.5}
+        - {x: -53, y: -0.5}
+        - {x: -23, y: -30.5}
+        - {x: 39, y: -30.5}
+        - {x: 53, y: -12.5}
+        - {x: 53, y: 30.5}
+    - name: MS3-Vine_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 252
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 30.5}
+        - {x: -51.5, y: 9.5}
+        - {x: -39.5, y: -26.5}
+        - {x: -10.5, y: -30.5}
+        - {x: 31.5, y: -30.5}
+        - {x: 46.5, y: -21.5}
+        - {x: 51.5, y: -5.5}
+        - {x: 51.5, y: 30.5}
+    - name: MS3-Vine_14
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 252
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 30}
+        - {x: -49.5, y: -1}
+        - {x: -33.5, y: -28}
+        - {x: -19.5, y: -30}
+        - {x: 41.5, y: -30}
+        - {x: 49.5, y: -19}
+        - {x: 49.5, y: 30}
+    - name: MS3-Vine_15
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 251
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 30.5}
+        - {x: -51.5, y: 1.5}
+        - {x: -38.5, y: -25.5}
+        - {x: -16.5, y: -30.5}
+        - {x: 41.5, y: -30.5}
+        - {x: 51.5, y: -18.5}
+        - {x: 51.5, y: 30.5}
+    - name: MS3-Vine_16
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 252
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 30.5}
+        - {x: -51.5, y: 5.5}
+        - {x: -37.5, y: -28.5}
+        - {x: -22.5, y: -30.5}
+        - {x: 40.5, y: -30.5}
+        - {x: 48.5, y: -23.5}
+        - {x: 51.5, y: -14.5}
+        - {x: 51.5, y: 30.5}
+    - name: MS3-Vine_17
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 249
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 30.5}
+        - {x: -51.5, y: 1.5}
+        - {x: -38.5, y: -25.5}
+        - {x: -16.5, y: -30.5}
+        - {x: 41.5, y: -30.5}
+        - {x: 51.5, y: -18.5}
+        - {x: 51.5, y: 30.5}
+    - name: MS3-Vine_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 144
+        width: 106
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 30.5}
+        - {x: 37, y: 28.5}
+        - {x: 24, y: 7.5}
+        - {x: -36, y: 30.5}
+        - {x: -53, y: 30.5}
+        - {x: -53, y: -12.5}
+        - {x: -25, y: -30.5}
+        - {x: 46, y: -30.5}
+        - {x: 47, y: -29.5}
+        - {x: 53, y: -6.5}
+        - {x: 53, y: 30.5}
+    - name: MS3-Vine_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 148
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 30.5}
+        - {x: -51.5, y: 5.5}
+        - {x: -37.5, y: -28.5}
+        - {x: -22.5, y: -30.5}
+        - {x: 40.5, y: -30.5}
+        - {x: 48.5, y: -23.5}
+        - {x: 51.5, y: -14.5}
+        - {x: 51.5, y: 30.5}
+    - name: MS3-Vine_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 146
+        width: 104
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 30}
+        - {x: 36, y: 26}
+        - {x: -1, y: 30}
+        - {x: -52, y: 30}
+        - {x: -52, y: 10}
+        - {x: -46, y: -19}
+        - {x: -37, y: -30}
+        - {x: 52, y: -30}
+        - {x: 52, y: 30}
+    - name: MS3-Vine_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 146
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 31.5}
+        - {x: 31, y: 28.5}
+        - {x: 11, y: 31.5}
+        - {x: -49, y: 31.5}
+        - {x: -49, y: 1.5}
+        - {x: -44, y: -22.5}
+        - {x: -21, y: -31.5}
+        - {x: 35, y: -31.5}
+        - {x: 49, y: -18.5}
+        - {x: 49, y: 30.5}
+        - {x: 46, y: 31.5}
+    - name: MS3-Vine_22
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 144
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 14.5}
+        - {x: 44.5, y: 12.5}
+        - {x: 46.5, y: 12.5}
+        - {x: 46.5, y: 29.5}
+        - {x: 45.5, y: 31.5}
+        - {x: 42.5, y: 32.5}
+        - {x: -46.5, y: 32.5}
+        - {x: -46.5, y: 10.5}
+        - {x: -42.5, y: -18.5}
+        - {x: -25.5, y: -32.5}
+        - {x: 21.5, y: -32.5}
+        - {x: 36.5, y: -30.5}
+        - {x: 46.5, y: -1.5}
+        - {x: 46.5, y: 11.5}
+        - {x: 43.5, y: 12.5}
+    - name: MS3-Vine_23
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 139
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 34.5}
+        - {x: -44.5, y: -11.5}
+        - {x: -40.5, y: -34.5}
+        - {x: 37.5, y: -34.5}
+        - {x: 44.5, y: -7.5}
+        - {x: 44.5, y: 27.5}
+        - {x: 39.5, y: 34.5}
+    - name: MS3-Vine_24
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 140
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 35}
+        - {x: -42, y: -12}
+        - {x: -31, y: -27}
+        - {x: -24, y: -35}
+        - {x: 17, y: -35}
+        - {x: 36, y: -26}
+        - {x: 42, y: -11}
+        - {x: 42, y: 31}
+        - {x: 37, y: 35}
+    - name: MS3-Vine_25
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 135
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 34.5}
+        - {x: 8.5, y: -7.5}
+        - {x: 12.5, y: -11.5}
+        - {x: 12.5, y: -28.5}
+        - {x: -24.5, y: 33.5}
+        - {x: -29.5, y: 34.5}
+        - {x: -43.5, y: 34.5}
+        - {x: -43.5, y: 7.5}
+        - {x: -36.5, y: -18.5}
+        - {x: 3.5, y: -34.5}
+        - {x: 29.5, y: -34.5}
+        - {x: 43.5, y: -21.5}
+        - {x: 43.5, y: 34.5}
+    - name: MS3-Vine_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 51
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 31}
+        - {x: 14, y: 20}
+        - {x: -23, y: 31}
+        - {x: -45, y: 31}
+        - {x: -45, y: 10}
+        - {x: -28, y: -13}
+        - {x: -4, y: -31}
+        - {x: 43, y: -31}
+        - {x: 45, y: -30}
+        - {x: 45, y: 31}
+    - name: MS3-Vine_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 43
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 32}
+        - {x: -48.5, y: 3}
+        - {x: -4.5, y: -32}
+        - {x: 48.5, y: -32}
+        - {x: 48.5, y: 32}
+    - name: MS3-Vine_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 39
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 31}
+        - {x: 5.5, y: 19}
+        - {x: -29.5, y: 31}
+        - {x: -48.5, y: 31}
+        - {x: -48.5, y: 8}
+        - {x: -29.5, y: -18}
+        - {x: -26.5, y: -10}
+        - {x: -26.5, y: -8}
+        - {x: -26.5, y: -10}
+        - {x: -6.5, y: -31}
+        - {x: 36.5, y: -31}
+        - {x: 48.5, y: -22}
+        - {x: 48.5, y: 27}
+        - {x: 45.5, y: 31}
+    - name: MS3-Vine_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 36
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 31.5}
+        - {x: 26, y: 28.5}
+        - {x: -18, y: 31.5}
+        - {x: -50, y: 31.5}
+        - {x: -50, y: 11.5}
+        - {x: -45, y: -18.5}
+        - {x: -13, y: -31.5}
+        - {x: 42, y: -31.5}
+        - {x: 47, y: -26.5}
+        - {x: 50, y: -9.5}
+        - {x: 50, y: 31.5}
+    - name: MS3-Vine_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 36
+        width: 106
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 30.5}
+        - {x: 30, y: 22.5}
+        - {x: -9, y: 30.5}
+        - {x: -53, y: 30.5}
+        - {x: -53, y: -0.5}
+        - {x: -23, y: -30.5}
+        - {x: 39, y: -30.5}
+        - {x: 53, y: -12.5}
+        - {x: 53, y: 30.5}
+    - name: MS3-Vine_31
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 34
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 30.5}
+        - {x: -51.5, y: 9.5}
+        - {x: -39.5, y: -26.5}
+        - {x: -10.5, y: -30.5}
+        - {x: 31.5, y: -30.5}
+        - {x: 46.5, y: -21.5}
+        - {x: 51.5, y: -5.5}
+        - {x: 51.5, y: 30.5}
+    - name: MS3-Vine_32
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 40
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 30}
+        - {x: -49.5, y: -1}
+        - {x: -33.5, y: -28}
+        - {x: -19.5, y: -30}
+        - {x: 41.5, y: -30}
+        - {x: 49.5, y: -19}
+        - {x: 49.5, y: 30}
+    - name: MS3-Vine_33
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 38
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 30.5}
+        - {x: -51.5, y: 1.5}
+        - {x: -38.5, y: -25.5}
+        - {x: -16.5, y: -30.5}
+        - {x: 41.5, y: -30.5}
+        - {x: 51.5, y: -18.5}
+        - {x: 51.5, y: 30.5}
+    - name: MS3-Vine_34
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 39
+        width: 106
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 30.5}
+        - {x: 37, y: 28.5}
+        - {x: 24, y: 7.5}
+        - {x: -36, y: 30.5}
+        - {x: -53, y: 30.5}
+        - {x: -53, y: -12.5}
+        - {x: -25, y: -30.5}
+        - {x: 46, y: -30.5}
+        - {x: 47, y: -29.5}
+        - {x: 53, y: -6.5}
+        - {x: 53, y: 30.5}
+    - name: MS3-Vine_35
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 37
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 30.5}
+        - {x: -51.5, y: 1.5}
+        - {x: -38.5, y: -25.5}
+        - {x: -16.5, y: -30.5}
+        - {x: 41.5, y: -30.5}
+        - {x: 51.5, y: -18.5}
+        - {x: 51.5, y: 30.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
