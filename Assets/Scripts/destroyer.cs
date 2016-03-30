@@ -21,7 +21,10 @@ public class destroyer : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		parent = this.transform.parent.gameObject;
-		if (parent.transform.position.x >= 4000 || parent.transform.position.x <= -500 || parent.transform.position.y <= -100 || parent.transform.position.y >= 200) {
+		if (parent.transform.position.x >= 4000 ||
+			parent.transform.position.x <= -500 ||
+			parent.transform.position.y <= -100 ||
+			parent.transform.position.y >= 200) {
 			Destroy (parent);
 		}
 		//if this.transform.parent.gameObject.transform.x >

@@ -13,14 +13,27 @@ public class Shot : MonoBehaviour {
 
 	}
 
-	void OnCollisionEnter2D(Collision2D collisionInfo)
-	{
+
+
+	void OnCollisionEnter2D (Collision2D collisionInfo) {
 		Animator a = this.GetComponentInChildren<Animator> ();
 		a.SetBool ("Collision", true);
 		print("Detected collision between " + gameObject.name + " and " + collisionInfo.collider.name);
 		print("There are " + collisionInfo.contacts.Length + " point(s) of contacts");
-		print("Their relative velocity is " + collisionInfo.relativeVelocity);
+		print ("Their relative velocity is " + collisionInfo.relativeVelocity);
+		StartCoroutine(flash(collisionInfo));
+
+
 	}
+	// TODO: Flashen vom Shot lösen wenn mögl
+	IEnumerator flash(Collision2D collisionInfo) {
+		Debug.Log ("FARBTEST:" + collisionInfo.collider.GetComponent<SpriteRenderer> ().color);
+		collisionInfo.collider.GetComponent<SpriteRenderer> ().color = Color.red;
+		yield return new WaitForSeconds (0.05f);
+		collisionInfo.collider.GetComponent<SpriteRenderer> ().color = Color.white;
+
+	}
+		
 
 	void OnCollisionStay2D(Collision2D collisionInfo)
 	{
@@ -57,9 +70,5 @@ public class Shot : MonoBehaviour {
 		Animator a = this.GetComponentInChildren<Animator> ();
 		animatorInfo = a.GetCurrentAnimatorStateInfo(0);
 		Debug.Log ("AnimatorInfo:"+ animatorInfo);
-//		if (animatorInfo.IsName ("destroy")) {
-//			Debug.Log ("Hallo");
-//			Destroy (this.gameObject);
-//		}
 	}
 }

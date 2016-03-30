@@ -61,10 +61,6 @@ public class Shooting : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-
-
-
-
 	// Finde den Animator vom Gameobject "Koerper" und überprüfe ob die Firetaste gedrückt wird
 	GameObject g = GameObject.Find ("Koerper");
 	GameObject p = GameObject.Find ("Player");
